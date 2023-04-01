@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm HARINI K K</h1>
 <h3 align="center">About Me</h3>
+
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harini-22" alt="harini-22" /></a> </p>
+- 🔭 I’m currently Pursuing **Bachelor degree in Computer Science**
 
 - 🌱 I’m currently learning **Anbroid Development**
 
-- 📫 How to reach me **harinikarthikeyan22@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/my-drive)
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📫 How to reach me **harinikarthikeyan22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harini-22&" alt="harini-22" /></p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harini-22" alt="harini-22" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harini-22&label=Profile%20views&color=0e75b6&style=flat" alt="harini-22" /> </p>
