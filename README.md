@@ -24,13 +24,13 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harini-22&show_icons=true&locale=en&layout=compact" alt="harini-22" /></p>
-</br>
-<p>&nbsp;
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harini-22&show_icons=true&locale=en&layout=compact" alt="harini-22" /></p>
+<br>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harini-22&show_icons=true&locale=en" alt="harini-22" /></p>
-</br>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harini-22&" alt="harini-22" /></p>
-</br>
+<br>
 <h3 align="left">GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harini-22" alt="harini-22" /></a> </p>
 
