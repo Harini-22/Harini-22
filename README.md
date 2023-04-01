@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Anbroid Development**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1IpVB8nwWqcNk5-dWoU5DJMvSvzg10Oxd/view))
 
 - 📫 How to reach me **harinikarthikeyan22@gmail.com**
 
