@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently Pursuing **Bachelor degree in Computer Science**
 
-- 🌱 I’m currently learning **Anbroid Development**
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1IpVB8nwWqcNk5-dWoU5DJMvSvzg10Oxd/view](https://drive.google.com/file/d/1IpVB8nwWqcNk5-dWoU5DJMvSvzg10Oxd/view))
+- 🌱 I’m currently learning **Android Development**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IpVB8nwWqcNk5-dWoU5DJMvSvzg10Oxd/view?usp=sharing)
 - 📫 How to reach me **harinikarthikeyan22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
