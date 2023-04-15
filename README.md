@@ -6,7 +6,7 @@
 - 🔭 I’m currently Pursuing **Bachelor degree in Computer Science**
 
 - 🌱 I’m currently learning **Android Development**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Tfau2D1hrHy23aNuHejLqGu61K8cpBQk/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oSLQGYBNCxBhoLNi04laSfWdfkqTVUvb/view?usp=sharing)
 - 📫 How to reach me **harinikarthikeyan22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
