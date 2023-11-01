@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Pursuing **Bachelor degree in Computer Science**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Vue and Vuex**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oSLQGYBNCxBhoLNi04laSfWdfkqTVUvb/view?usp=sharing)
 - 📫 How to reach me **harinikarthikeyan22@gmail.com**
 
