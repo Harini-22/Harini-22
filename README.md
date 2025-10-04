@@ -7,7 +7,7 @@
 - Working in FleetStudio Technologies
 
 - 🌱 I’m currently learning **Vue and Vuex**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oSLQGYBNCxBhoLNi04laSfWdfkqTVUvb/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-_V7UN0620_LkM7KUcCrNfAIYtAtzbpZ/view?usp=sharing)
 - 📫 How to reach me **harinikarthikeyan22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
